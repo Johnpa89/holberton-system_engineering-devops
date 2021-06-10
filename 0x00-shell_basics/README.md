@@ -3,8 +3,8 @@
 1. What’s in there? - ls
 2. There is no place like home - cd /root
 3. The long forma - ls -l
-4. Hidden files - ls -a
-5. I love numbers - ls -ln
+4. Hidden files - ls -la
+5. I love numbers - ls -lna
 6. Welcome holberton - mkdir /tmp/holberton
 7. Betty in Holberton - vm /tmp/betty /tmp/holbrton/
 8. Bye bye Betty - rm /tmp/holbrton/betty
