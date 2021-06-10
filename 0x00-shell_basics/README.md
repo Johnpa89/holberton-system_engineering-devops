@@ -1,7 +1,7 @@
 #What doing the scripts
 0. Where am I? - pwd
 1. What’s in there? - ls
-2. There is no place like home - cd
+2. There is no place like home - cd /root
 3. The long forma - ls -l
 4. Hidden files - ls -a
 5. I love numbers - ls -ln
