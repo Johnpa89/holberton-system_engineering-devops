@@ -6,11 +6,11 @@
 4. Hidden files - ls -la
 5. I love numbers - ls -lna
 6. Welcome holberton - mkdir /tmp/holberton
-7. Betty in Holberton - vm /tmp/betty /tmp/holbrton/
-8. Bye bye Betty - rm /tmp/holbrton/betty
+7. Betty in Holberton - mv /tmp/betty /tmp/holberton
+8. Bye bye Betty - rm /tmp/holberton/betty
 9. Bye bye Holberton - rm -R /tmp/holberton
-10. Back to the future - cd /home
-11. Lists - ls -la * /boot
-12. File type - ls iamafile /tmp
-13. We are symbols, and inhabit symbols - ln -n /bin/ls _ls_
-14. Copy HTML files - cp -a *.html ./
+10. Back to the future - cd -
+11. Lists - ls -la . .. /boot
+12. File type - file /tmp/iamafile
+13. We are symbols, and inhabit symbols - ln -n /bin/ls __ls__
+14. Copy HTML files - ``cp -u  ./*.html
